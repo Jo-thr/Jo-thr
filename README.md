@@ -1,4 +1,9 @@
-### Hello 👋
+## (WELCOME I'M)
+### Jonathan Thr
+## FRONT-END DEVELOPER
+
+Full-Stack Developer & ex Ux Designer, I answer your web and mobile development requests.
+Javascript Developer, especially in modern stacks like : NextJS / React / VueJS etc.
 
 <!--
 **Jo-thr/Jo-thr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
